@@ -1,5 +1,7 @@
 # Three.js Transform Controls
 
+[![Deploy React App](https://github.com/eunchurn/threejs-transform-controls/actions/workflows/deployment.yml/badge.svg)](https://github.com/eunchurn/threejs-transform-controls/actions/workflows/deployment.yml)
+
 Combining TransformControls, OrbitControls and Valtio.
 
 ![thumbnail](thumbnail.png)
